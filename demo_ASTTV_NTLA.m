@@ -1,19 +1,24 @@
+%% =================================================================
+% This script performs Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection 
+% 
+% More detail can be found in [1]
+% [1] Ting Liu, Jungang Yang, Boyang Li, Chao Xiao, Yang Sun, Yingqian Wang, Wei An.
+%     Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection .
+%
+% Created by Ting Liu 
+% 11/10/2021
 clc;
 clear;
 close all;
-utilsPath = '../../../utils';
-addpath(utilsPath);
-addpath('../../../label');
 tic
 %% setup parameters 
 H =10; % tuning forbetter performance
 L=3; % tuning forbetter performance
-C=10;%10
+C=10;
 p=0.8;
-k=5;
+k=120;
 %% input data
-% strDir='D:\博士资料\[开源整理]（孙杨师兄代码）\[MFD-NMoG]\MFDNMoG\NoisyDataLT3\15\';
-strDir='D:\博士资料\[开源整理]\ASTTV-NTLA公开\data\';
+strDir='data\';
 for i=1:k
     picname=[strDir  num2str(i),'.bmp'];
     I=imread(picname);
