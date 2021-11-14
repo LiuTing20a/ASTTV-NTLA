@@ -2,7 +2,8 @@
 **Matlab implementation of "*Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection*",  [<a href="https://arxiv.org/abs/2105.14974">pdf</a>].**<br><br>
 ## *Highlights:*
 #### 1. *we propose a non-convex tensor low-rank approximation (NTLA) method for infrared small target detection. In our method, NTLA regularization adaptively assigns different weights to different singular values for accurate background estimation. Based on the proposed NTLA, we propose asymmetric spatial-temporal total variation (ASTTV) regularization to achieve more accurate background estimation in complex scenes.*
-  <p align="center"> <img src="https://raw.github.com/zf020114/DARDet/master/Figs/framework.PNG" width="100%"></p>
+  <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/flow11.pdf" width="100%"></p>
+  
  
 #### 2. *Our DARDet significantly achieve state-of-the-art performance on the DOTA, UCAS-AOD, and HRSC2016 datasets with high efficiency..*
   <p align="center"> <img src="https://raw.github.com/zf020114/DARDet/master/Figs/table.png" width="100%"></p>
