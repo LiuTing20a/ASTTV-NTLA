@@ -4,7 +4,7 @@
 #### 1. *we propose a non-convex tensor low-rank approximation (NTLA) method for infrared small target detection. In our method, NTLA regularization adaptively assigns different weights to different singular values for accurate background estimation. Based on the proposed NTLA, we propose asymmetric spatial-temporal total variation (ASTTV) regularization to achieve more accurate background estimation in complex scenes.*
   <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/flow11.png" width="100%"></p>
  
-#### 2. *Our DARDet significantly achieve state-of-the-art performance on the DOTA, UCAS-AOD, and HRSC2016 datasets with high efficiency..*
+#### 2. *To demonstrate the advantages of the ASTTV-NTLA method, we compare it with other ten methods on six different real infrared image scenes.*
   <p align="center"> <img src="https://raw.github.com/zf020114/DARDet/master/Figs/table.png" width="100%"></p>
   <p align="center"> <img src="https://raw.github.com/zf020114/DARDet/master/Figs/result.PNG" width="100%"></p>
 
