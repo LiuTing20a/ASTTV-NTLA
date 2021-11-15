@@ -11,34 +11,8 @@
 #### 3. *Ablation experiments of each regularization of ASTTV-NTLA method.*
   <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/Noisy121.png" width="100%"></p>
 
-
-## Benchmark and model zoo, with extracting code **nudt**.
-
-|Model          |    Backbone     |    MS  |  Rotate | Lr schd  | Inf time (fps) | box AP| Download|
-|:-------------:| :-------------: | :-----:| :-----: | :-----:  | :------------: | :----: | :---------------------------------------------------------------------------------------: |
-|DARDet         |    R-50-FPN     |   -     |  -     |   1x     |      12.7      |  77.61 | [cfg](configs/DARDet/dardet_r50_fpn_1x_dcn_test.py)[model](https://pan.baidu.com/s/1aspypaz8a7QvFyUdDR986g)    |
-|DARDet         |    R-50-FPN     |   -     |  ✓    |   2x     |      12.7      |  78.74 |  [cfg](configs/DARDet/dardet_r50_fpn_1x_dcn_rotate_test.py)[model](https://pan.baidu.com/s/1VPsAB3Kb90IqJTluH6lFHw)     |
-
-
 ## Installation
-## Prerequisites
 
-- Linux or macOS (Windows is in experimental support)
-- Python 3.6+
-- PyTorch 1.3+
-- CUDA 9.2+ (If you build PyTorch from source, CUDA 9.0 is also compatible)
-- GCC 5+
-- [MMCV](https://mmcv.readthedocs.io/en/latest/#installation)
-
-The compatible MMDetection and MMCV versions are as below. Please install the correct version of MMCV to avoid installation issues.
-
-| MMDetection version |    MMCV version     |
-|:-------------------:|:-------------------:|
-| 2.13.0              | mmcv-full>=1.3.3, <1.4.0 |
-
-
-Note: You need to run `pip uninstall mmcv` first if you have mmcv installed.
-If mmcv and mmcv-full are both installed, there will be `ModuleNotFoundError`.
 
 ## Installation
 
