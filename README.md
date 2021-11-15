@@ -5,8 +5,8 @@
   <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/flow11.png" width="100%"></p>
  
 #### 2. *To demonstrate the advantages of the ASTTV-NTLA method, we compare it with other ten methods on six different real infrared image scenes.*
-  <p align="center"> <img src="https://raw.github.com/zf020114/DARDet/master/Figs/table.png" width="100%"></p>
-  <p align="center"> <img src="https://raw.github.com/zf020114/DARDet/master/Figs/result.PNG" width="100%"></p>
+  <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/123.png" width="100%"></p>
+  <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/1234.png" width="100%"></p>
 
 
 ## Benchmark and model zoo, with extracting code **nudt**.
