@@ -8,6 +8,9 @@
   <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/123.png" width="100%"></p>
   <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/1234.png" width="100%"></p>
 
+#### 3. *Ablation experiments of each regularization of ASTTV-NTLA method.*
+  <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/Noisy121.png" width="100%"></p>
+
 
 ## Benchmark and model zoo, with extracting code **nudt**.
 
