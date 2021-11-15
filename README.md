@@ -5,11 +5,11 @@
   <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/flow11.png" width="100%"></p>
  
 #### 2. *To demonstrate the advantages of the ASTTV-NTLA method, we compare it with other ten methods on six different real infrared image scenes.*
-  <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/123.png" width="100%"></p>
-  <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/1234.png" width="100%"></p>
+  <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/123.png" width="100%"></p>
+  <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/1234.png" width="100%"></p>
 
 #### 3. *Ablation experiments of each regularization of ASTTV-NTLA method.*
-  <p align="center"> <img src=" https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/Noisy121.png" width="100%"></p>
+  <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/Noisy121.png" width="100%"></p>
 
 ## Get Started
 Run Demo_ASTTV_NTLA.
