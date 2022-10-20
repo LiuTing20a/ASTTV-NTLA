@@ -9,8 +9,7 @@
  <p align="center"> <img src="https://raw.github.com/LiuTing20a/ASTTV-NTLA/master/Figs2/1234.png" width="90%"> </p>
  
 #### 3. *Ablation experiments of each regularization of ASTTV-NTLA method.*
-  <p align="center"> <img src="https://github.com/LiuTing20a/ASTTV-NTLA/blob/main/Figs/Noisy121.png" width="100%"></p>
-
+  <p align="center"> <img src="https://raw.github.com/LiuTing20a/ASTTV-NTLA/master/Figs2/Noisy121.png" width="90%"> </p>
 ## Get Started
 Run Demo_ASTTV_NTLA.
 
