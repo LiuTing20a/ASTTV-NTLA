@@ -19,11 +19,14 @@ For details such as parameter setting, please refer to [<a href="https://arxiv.o
 ## Citation
 
 ```
-@article{liu2021non,
-  title={Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection},
+@article{liu2021nonconvex,
+  title={Nonconvex Tensor Low-Rank Approximation for Infrared Small Target Detection},
   author={Liu, Ting and Yang, Jungang and Li, Boyang and Xiao, Chao and Sun, Yang and Wang, Yingqian and An, Wei},
-  journal={arXiv preprint arXiv:2105.14974},
-  year={2021}
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--18},
+  year={2021},
+  publisher={IEEE}
 }
 
 ```
