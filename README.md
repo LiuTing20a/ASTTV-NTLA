@@ -1,5 +1,5 @@
 # ASTTV-NTLA
-**Matlab implementation of "*Nonconvex Tensor Low-Rank Approximation for Infrared Small Target Detection*",  [<a href="https://arxiv.org/abs/2105.14974">pdf</a>].**<br><br>
+**Matlab implementation of "*Nonconvex Tensor Low-Rank Approximation for Infrared Small Target Detection*",  [<a href="https://ieeexplore.ieee.org/abstract/document/9626011">pdf</a>].**<br><br>
 ## *Highlights:*
 #### 1. *we propose a non-convex tensor low-rank approximation (NTLA) method for infrared small target detection. In our method, NTLA regularization adaptively assigns different weights to different singular values for accurate background estimation. Based on the proposed NTLA, we propose asymmetric spatial-temporal total variation (ASTTV) regularization to achieve more accurate background estimation in complex scenes.
   <p align="center"> <img src="https://raw.github.com/LiuTing20a/ASTTV-NTLA/master/Figs2/flow11.png" width="90%"> </p>
@@ -16,7 +16,6 @@ Run Demo_ASTTV_NTLA.
 ## Details
 For details such as parameter setting, please refer to [<a href="https://ieeexplore.ieee.org/abstract/document/9626011">pdf</a>].
 
-For details such as parameter setting, please refer to [<a href="https://arxiv.org/abs/2105.14974">pdf</a>].   
 ## Citation
 
 ```
